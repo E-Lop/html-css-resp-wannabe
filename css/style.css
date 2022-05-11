@@ -134,9 +134,10 @@ img {
 }
 
 @media screen and (max-width: 480px) {
-  .container {
-    width: 100%;
+  .why-us {
+    background-color: #222222;
   }
+
   .row {
     flex-wrap: wrap;
     justify-content: center;
